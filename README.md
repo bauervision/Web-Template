@@ -7,4 +7,10 @@ This project has solid skeleton code that supports
 * Account Review
 * Admin Page
 
+## Firebase Driven
+
+Supporting 
+* Realtime Database
+* Authentication
+* Hosting
 
